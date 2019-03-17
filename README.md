@@ -4,4 +4,4 @@
 
 * 1st - 2019.03.03
 * 2nd - 2019.03.10
-* 3rd - 2019.03.17
+* [3rd - 2019.03.17](https://github.com/nali21c/spring-boot-study/tree/master/2019.03.17)
